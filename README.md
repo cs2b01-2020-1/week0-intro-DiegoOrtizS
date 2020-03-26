@@ -1,1 +1,2 @@
-# week0-intro
+# Diego Ortiz
+CS - UTEC
